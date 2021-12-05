@@ -1,0 +1,154 @@
+nav ul{
+margin-left:300px;
+
+
+}
+nav ul>li{
+	padding:20px;
+	 
+}
+nav a{
+	margin-left:10px;
+	font-size:20px;
+	/*color:#fff;*/
+	color:black;
+	text-decoration:none;
+}
+
+
+/*......slider part start....*/
+
+/*.......table 1......*/
+
+.for1{
+	text-align:center;
+	padding-top:30px;
+	padding-bottom:30px;
+    background-color:grey;
+    color:white;
+
+}
+
+/*.......table 1 end......*/
+.fo{
+
+	font-weight: bold;
+	font-size:60px;
+	margin-bottom:200px;
+}
+
+/*............slider part end..........*/
+.wel{
+	margin-left:70px;
+}
+.re{
+   margin-top:60px;
+	}
+.welcome{
+	width:100%;
+	height:auto;
+	margin:0px;
+	padding:0px;
+}
+.b{
+	background-image: url(image/p1.jpg);
+	background-size:55% 80%;
+	background-position: top fixed;
+}
+.b1>img{
+	width:55%;
+	height:300px;
+	margin-top:200px;
+	margin-left:140px;
+
+}
+
+/*..........slider part end........*/
+#read{
+    
+	border-radius: 1.875rem;
+    font-size: 12px;
+    text-transform: uppercase;
+    line-height: 1.2;
+    padding: 1.5835em 3.333em;
+    font-weight: 600;
+    letter-spacing: 1px;
+    background-color:grey;
+    color: #fff;
+    border: 1px solid;
+    border-color: transparent;
+  
+}
+.ss{
+	margin-left:50px;
+	margin-right:50px;
+	margin-top:100px;
+	text-align:left;
+}
+.im img{
+    margin-bottom:40px;
+}
+/*.........footer part..........*/
+
+.foot1{
+	
+	background-color:#04091e;
+	height:750px;
+	margin-top:40px;
+}
+
+.foot1 ul li>a,a{
+	text-decoration:none;
+	color:white;
+
+	}
+.f2{
+	margin-left:40px;
+	margin-right:150px;
+}
+
+
+
+/*..................about part.......*/
+.ab{
+	background-image:url(image/abt.jpg);
+	background-size: 100% 100%;
+	background-attachment:fixed;
+	background-repeat: no-repeat;
+	height:600px;
+}
+
+
+
+/*...............registration form......*/
+.ph{
+	background-image:url(image/p3.jpg);
+	height:625px;
+	background-repeat: no-repeat;
+	background-size:100% 100%;
+}
+.re{
+	text-align:center;
+	margin-top:150px;
+}
+/*..................contact part.......*/
+.con{
+	background-image:url(image/contact1.jpg);
+	height:625px;
+	background-repeat: no-repeat;
+	background-size:100% 100%;
+}
+.for{
+width:70%;
+height:auto;
+padding:50px;
+}
+
+
+/*...........animated part......*/
+.about--part{
+	opacity: 0;
+}
+.about--part .animated{
+	opacity: 1;
+}
